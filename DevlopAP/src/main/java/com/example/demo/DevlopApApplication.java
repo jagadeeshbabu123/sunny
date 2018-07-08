@@ -17,7 +17,7 @@ public class DevlopApApplication {
 
 	@RequestMapping(path = "/hh",method=RequestMethod.GET)
 	public String wishMsg(){
-		return "Hello world";
+		return "Hello worldasdgad";
 	}
 	
 	
